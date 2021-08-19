@@ -1,1 +1,5 @@
 instance/*
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
